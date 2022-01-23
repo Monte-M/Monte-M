@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://mantas-portfolio.netlify.app)
 
-- 📫 You can contact by email **mantas-matelionis@outlook.com**
+- 📫 You can contact me by email **mantas-matelionis@outlook.com**
 
 <br/>
 
