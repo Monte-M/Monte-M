@@ -3,7 +3,7 @@
 <br>
 
 
-- 📫 You can contact me by email **mantas-matelionis@outlook.com**
+<h3 align="center"> 📫 You can contact me by email **mantas-matelionis@outlook.com**<h3>
 
 <br/>
 
