@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Lithuania</h3>
 <br>
 
-<h4 align="center"> 📫 You can contact me by email **mantas-matelionis@outlook.com** <h4>
+ 📫 You can contact me by email **mantas-matelionis@outlook.com** 
 
 <br/>
 
