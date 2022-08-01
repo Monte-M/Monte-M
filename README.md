@@ -2,11 +2,6 @@
 <h3 align="center">A passionate frontend developer from Lithuania</h3>
 <br>
 
-- 👀 I’m interested in Web Development
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 Some of my projects are available at [my portfolio](https://mantas-portfolio.netlify.app)
 
 - 📫 You can contact me by email **mantas-matelionis@outlook.com**
 
